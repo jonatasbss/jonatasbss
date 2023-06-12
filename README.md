@@ -5,6 +5,8 @@
 
 <br/>
 
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={jonatasbss}
+
 <!--
 **jonatasbss/jonatasbss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
