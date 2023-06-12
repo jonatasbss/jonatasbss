@@ -5,6 +5,10 @@
 
 <br/>
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasbss&show_icons=true&theme=radical) -->
 
