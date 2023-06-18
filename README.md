@@ -6,17 +6,13 @@
 <br/>
 
 
-<div style="display: flex;align-items: center;justify-content: center;">
+<div style="display: flex;align-items: center;">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="margin-right: 10px;"/>
   <img width="55" height="55" src="https://img.icons8.com/color/48/django.png" alt="django" style="margin-right: 10px;"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker" style="margin-right: 10px;"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1" style="margin-right: 10px;"/>
-  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" style="margin-right: 10px;"/>
-  <img width="45" height="45" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" style="margin-right: 10px;"/>
 </div>
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" />
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="75" /> -->
           
