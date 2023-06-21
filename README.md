@@ -4,7 +4,7 @@
 
 
 
-## Languages and Tools: 
+<h2 Languages and Tools: <h2>
 <div style="display: flex;">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="margin-right: 10px;"/>
   <img width="55" height="55" src="https://img.icons8.com/color/48/django.png" alt="django" style="margin-right: 10px;"/>
