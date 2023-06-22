@@ -21,7 +21,7 @@
 
 ### I am learning
 <div style="display: flex;">
-  <img width="75" height="75" src="https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3" style="margin-right: 10px;"/>
+  <img width="48" height="48" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techgalery.com%2F2021%2F09%2Fget-started-oracle-db-express-for.html&psig=AOvVaw0z-2JRXAfRza2k1xhMscLd&ust=1687531299910000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCID1ro6O1_8CFQAAAAAdAAAAABAe" style="margin-right: 10px;"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" tyle="margin-right: 10px;"/>
 </div>
 
