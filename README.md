@@ -9,7 +9,7 @@
 ### Would you like to find me?
 
 <a href="https://www.linkedin.com/in/jonatasbatista/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="jonatasbssampaio@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 
 ### Languages and Tools:
 <div style="display: flex;">
