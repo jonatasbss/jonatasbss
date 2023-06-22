@@ -10,7 +10,6 @@
 
 <a href="https://www.linkedin.com/in/jonatasbatista/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-
 ### Languages and Tools:
 <div style="display: flex;">
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" style="margin-right: 10px;"/>
