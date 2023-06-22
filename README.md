@@ -18,6 +18,13 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql" style="margin-right: 10px;"/>
 </div>
 
+
+### I am learning
+<div style="display: flex;">
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/48/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3" style="margin-right: 10px;"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" tyle="margin-right: 10px;"/>
+</div>
+
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="75" /> -->
           
