@@ -8,7 +8,7 @@
 
 ### Would you like to find me?
 
-<a href="https://www.linkedin.com/in/jonatasbatista/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/jonatasbatista/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 ### Languages and Tools:
