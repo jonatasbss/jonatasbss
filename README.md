@@ -7,9 +7,9 @@
 </p>
 
 ### Would you like to find me?
-<div style="display: flex;">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</div>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 
 
