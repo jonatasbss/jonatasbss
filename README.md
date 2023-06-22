@@ -21,7 +21,7 @@
 
 ### I am learning
 <div style="display: flex;">
-  <img width="48" height="48" src="https://1.bp.blogspot.com/-olEGUVAbDOg/YS_VDSoSMFI/AAAAAAAAL5k/avUIQTjd2dkflGsbVp8wxIueT8HhMklIgCLcBGAsYHQ/s0/oracle-db.png" style="margin-right: 10px;"/>
+  <img width="60" height="60" src="https://img.icons8.com/plasticine/60/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3" tyle="margin-right: 10px;"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" tyle="margin-right: 10px;"/>
 </div>
 
