@@ -6,6 +6,11 @@
   My name is Jônatas Batista. I work as a Back-End Developer focusing on Python/Django, but working with other programming languages ​​and frameworks such as Javascript and React Native.
 </p>
 
+### Would you like to find me?
+<div style="display: flex;">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</div>
+
 
 
 ### Languages and Tools:
