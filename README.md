@@ -26,7 +26,7 @@
 <div style="display: flex;">
   <img width="50" height="50" title="Oracle" src="https://img.icons8.com/plasticine/60/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3" tyle="margin-right: 10px;"/>
   <img width="48" height="48" title="MongoDB" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" tyle="margin-right: 10px;"/>
-  <img width="48" height="48" title="DevOps" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/>
+  <img width="47" height="47" title="DevOps" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/>
   
 </div>
 
