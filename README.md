@@ -26,6 +26,8 @@
 <div style="display: flex;">
   <img width="50" height="50" src="https://img.icons8.com/plasticine/60/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3" tyle="margin-right: 10px;"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" tyle="margin-right: 10px;"/>
+  <img width="48" height="48" src="https://icons8.com.br/icon/CLa3T2WlbrOP/devops" alt="mongodb" tyle="margin-right: 10px;"/>
+  
 </div>
 
 <!--
