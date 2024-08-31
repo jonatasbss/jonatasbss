@@ -19,6 +19,7 @@
   <img width="48" height="48" title="HTML5" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1" style="margin-right: 10px;"/>
   <img width="48" height="48" title="CSS3" src="https://img.icons8.com/fluency/48/css3.png" alt="css3" style="margin-right: 10px;"/>
   <img width="48" height="48" title="PostgreSQL" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql" style="margin-right: 10px;"/>
+  <img width="47" height="47" title="DevOps" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/>
 </div>
 
 
@@ -26,7 +27,7 @@
 <div style="display: flex;">
   <img width="50" height="50" title="Oracle" src="https://img.icons8.com/plasticine/60/oracle-pl-sql--v3.png" alt="oracle-pl-sql--v3" tyle="margin-right: 10px;"/>
   <img width="48" height="48" title="MongoDB" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb" tyle="margin-right: 10px;"/>
-  <img width="47" height="47" title="DevOps" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
   
 </div>
 
