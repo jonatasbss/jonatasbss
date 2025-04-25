@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="justify">
+<p align="center">
   My name is Jônatas Batista. I work as a Back-End Developer focusing on Python/Django, but working with other programming languages ​​and frameworks such as Javascript and React Native.
 </p>
 
