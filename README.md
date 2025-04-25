@@ -2,9 +2,16 @@
 
 <br/>
 
-<p align="center">
-  My name is Jônatas Batista. I work as a Back-End Developer focusing on Python/Django, but working with other programming languages ​​and frameworks such as Javascript and React Native.
+<div align="center">
+  <p>
+  Olá, sou Jônatas Batista — Desenvolvedor Back-End com foco em Python e Django. Construo APIs robustas, sistemas escaláveis e gosto de escrever código limpo, eficiente e bem documentado. Sou apaixonado por resolver problemas do mundo real através da tecnologia.
 </p>
+</div>
+<div align="center">
+  <p>
+    Hi, I'm Jônatas Batista — a Back-End Developer specializing in Python and Django. I build robust APIs, scalable systems, and enjoy creating clean, efficient, and well-documented code. Passionate about solving real-world problems through technology.
+  </p>
+</div>
 
 
 <div align="center">
